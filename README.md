@@ -30,3 +30,5 @@ We intend to improve upon the app by making a personalized schedule based on an 
 
 ## 4._Professional Use in Healthcare Industry-_
 We intend to improve our app such that it can be used by health care professionals in hospitals or clinics to judge their work-life balance in order to get a better perspective about the patient's mental health.
+
+![splash screen](https://user-images.githubusercontent.com/78225681/178311180-f0629b28-d4cb-4bc7-869b-6ce5c2acea04.svg)
